@@ -1,0 +1,52 @@
+[
+
+    {
+
+        "id":"1",
+        "img":"images/Rectangle 2096.png",
+        "img2":"images/Rectangle 2096 (1).png",
+        "price":"100.000 $"
+
+    },
+    {
+
+        "id":"2",
+        "img":"images/Rectangle 2096 (1).png",
+        "img2":"images/Rectangle 2096 (2).png",
+        "price":"390.000 $"
+
+    },
+    {
+
+        "id":"3",
+        "img":"images/Rectangle 2096 (2).png",
+        "img2":"images/Rectangle 2096 (3).png",
+        "price":"143.000 $"
+
+    },
+    {
+
+        "id":"4",
+        "img":"images/Rectangle 2096 (3).png",
+        "img2":"images/Rectangle 2096 (4).png",
+        "price":"211.200 $"
+
+    },
+    {
+
+        "id":"5",
+        "img":"images/Rectangle 2096 (4).png",
+        "img2":"images/Rectangle 2096 (5).png",
+        "price":"211.200 $"
+
+    },  {
+
+        "id":"6",
+        "img":"images/Rectangle 2096 (5).png",
+        "img2":"images/Rectangle 2096 (4).png",
+        "price":"211.200 $"
+
+    }
+
+
+]
